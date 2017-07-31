@@ -1,0 +1,6 @@
+<div id= "transparency"></div>
+<div class="mycontainer">
+<div id="myimage">[field_slideshow_image]</div>
+<div class= "mytitle">[title]</div>
+<div class= "mybody">[body]</div>
+</div>

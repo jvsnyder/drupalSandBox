@@ -1,0 +1,31 @@
+#transparency{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 500px;
+	height: 100px;
+	background-color: #000;
+	filter:alpha(opacity=80);
+	opacity: 0.8;
+	-moz-opacity: 0.8;
+}
+
+.mycontainer{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 500px;
+	height: 100px;
+}
+.mytitle{
+	color: blue;
+}
+.myimage{
+	position: relative;
+}
+
+.mybody{
+	color: red;
+	position: absolute;
+	bottom: 100px;
+}
