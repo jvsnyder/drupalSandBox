@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the thebros feature.
+ */
+
+include_once 'thebros.features.inc';
